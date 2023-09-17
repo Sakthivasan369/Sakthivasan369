@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakthivasan369
 - 👀 I’m interested in coding and chess
-- 🌱 I’m currently learning B Tech Artificial Intelligence 
+- 🌱 I’m currently learning B Tech Artificial Intelligence at Chennai Institute of Technology 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me sakthivasan516@gmail.com 
 
